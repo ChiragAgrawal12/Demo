@@ -7,3 +7,6 @@ print(c*d)
 e=11
 f=12
 print(f-e)
+g=15
+h=45
+print(h/g)
